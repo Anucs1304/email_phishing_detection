@@ -43,5 +43,5 @@ c.execute("INSERT INTO predictions VALUES (?, ?, ?, ?)",
 conn.commit()
 conn.close()
 
-print("✅ Logged to results.db")
+print("Logged to results.db")
 
