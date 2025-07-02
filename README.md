@@ -40,7 +40,8 @@ This project uses machine learning to detect phishing (spam) emails based on the
 
 ---
 
-## outputEmail: Click here to verify your account
+## output
+- Email: Click here to verify your account
 - Prediction: safe (ham)
 - Confidence: 0.67
 - Logged to results.db 
